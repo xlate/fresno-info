@@ -1,4 +1,4 @@
-# fresno-info
+# Fresno Information
 Documentation related to the Fresno EDI Management, Validation, and Translation Server
 
 ## Commercial
@@ -6,4 +6,4 @@ Documentation related to the Fresno EDI Management, Validation, and Translation 
 * [Support Terms](https://github.com/xlate/staedi/wiki/Fresno-Commercial-Support)
 
 ## Current Version(s)
-`latest` is `registry.xlate.io/xlate/fresno:1.0.6`
+`latest` is `registry.xlate.io/xlate/fresno:1.0.7`
